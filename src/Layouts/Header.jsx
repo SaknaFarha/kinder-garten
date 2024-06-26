@@ -37,7 +37,7 @@ function Header() {
                       </li>
                       <li
                         className={`${
-                          window.location.pathname === "/facilities"
+                          window.location.pathname === "/programme"
                             ? "selected"
                             : ""
                         }`}
@@ -46,7 +46,7 @@ function Header() {
                       </li>
                       <li
                         className={`${
-                          window.location.pathname === "/court-list"
+                          window.location.pathname === "/programme"
                             ? "selected"
                             : ""
                         }`}
@@ -55,7 +55,7 @@ function Header() {
                       </li>
                       <li
                         className={`${
-                          window.location.pathname === "/course-list"
+                          window.location.pathname === "/programme"
                             ? "selected"
                             : ""
                         }`}
@@ -64,7 +64,7 @@ function Header() {
                       </li>
                       <li
                         className={`${
-                          window.location.pathname === "/about-us"
+                          window.location.pathname === "/programme"
                             ? "selected"
                             : ""
                         }`}

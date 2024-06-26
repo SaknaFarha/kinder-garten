@@ -89,7 +89,7 @@ function Footer() {
             <div className="col-lg-8">
               <div className="term-box footer-item">
                 <ul className="list-items list--items d-flex align-items-center">
-                  <li>© Copyright Xtra Sports 2023.</li>
+                  <li>© Copyright Kindergarten 2024.</li>
                 </ul>
               </div>
             </div>
